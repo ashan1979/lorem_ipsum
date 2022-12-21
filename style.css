@@ -184,5 +184,22 @@ main {
     place-items: center;
 }
 
+/* Lorem */
+
+h3 {
+    text-transform: uppercase;
+    color: var(--clr-primary-1);
+}
+
+.lorem-form {
+    text-transform: capitalize;
+    letter-spacing: var(--spacing);
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
 
